@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Portfolio for Daniel Frey
 
-Make it your own! 
+Deployed at [https://daniel-frey-portfolio.netlify.app/](https://daniel-frey-portfolio.netlify.app/)
