@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Daniel Frey. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hail! and Well Met",
+      "description": "I graduated from Iowa State University in 2013 with a degree in materials engineering and a minor in music. I have worked a wide variety of jobs, from retail sales to warehouse work to church ministry. I love learning a little bit about every topic imaginable, and that journey currently has me pursuing a career in software development as a student at Delta V.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
