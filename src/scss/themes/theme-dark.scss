@@ -50,8 +50,9 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
-      .section-title {
+      background-image: url('../../../public/images/glass-1.jpg');
+      background-size: 100%;
+         .section-title {
          color: white !important;
       }
       .foto div {
@@ -64,8 +65,9 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
-      .section-title {
+      background-image: url('../../../public/images/glass-5.jpg');
+      background-size: 100%;
+         .section-title {
          color: white !important;
       }
 
